@@ -4,5 +4,5 @@
 
 ### 学习笔记
 
-[最小 CMakeLists.txt](Document/最小_CMakeLists_txt .md)
+[最小CMakeLists.txt](Document/最小_CMakeLists_txt .md)
 
